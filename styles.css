@@ -27,7 +27,7 @@ div.tiles{
 div.tiles > .tile{
     margin: 0;
     display: inline-grid; 
-    background-color: red;
+    background-color: white;
     place-items: center;
     /*border-radius: 5em;*/
 }
@@ -47,14 +47,14 @@ div.tile-section {
 
 }
 
-*/
 
 .child {
     width: 256px;
 }
+*/
 
 .child:hover {
-  transform: scale(1.1);
+  transform: scale(1.5);
   /* background-color: yellow; */
 }
 
